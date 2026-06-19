@@ -16,7 +16,7 @@ projects/ — Original quantitative finance projects
 
 **Projects:**
 
-Coming soon — pairs trading model and factor analysis.
+In progress - statistical arbitrage investigation using Engler-Granger cointegration testing on NVDA/AMD and GLD/SLV pairs
 
 
 
